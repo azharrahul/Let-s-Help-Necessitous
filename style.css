@@ -1,0 +1,370 @@
+body {
+    margin: 0%;
+    font-family: 'Poppins', sans-serif;
+}
+
+#p1 {
+    font-size: 20px;
+    font-weight: 300;
+    text-align: center;
+    padding-bottom: 3%;
+}
+
+.part1 {
+    background-image: url(images/donation7.jpg);
+    background-repeat: repeat;
+    padding-top: 9%;
+    padding-bottom: 10%;
+    font-size: 48px;
+    align-items: center;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-weight: 400;
+}
+
+.b1 {
+    background-color: rgb(11, 122, 37);
+    font-size: 28px;
+    padding: 10px 10px 10px 10px;
+    border-radius: 6px;
+    text-decoration: none;
+    color: white;
+    font-weight: 600;
+}
+
+h2 {
+    padding-top: 7%;
+    padding-bottom: 1%;
+    font-size: 48px;
+    align-items: center;
+    text-align: center;
+    color: rgb(12, 12, 12);
+    font-weight: 700;
+}
+
+
+.p2 {
+
+    color: rgb(109, 100, 100);
+    font-size: 20px;
+    font-weight: 300;
+    text-align: center;
+    padding-bottom: 3%;
+}
+
+.tk {
+    font-size: 24px;
+    margin-left: 20%;
+}
+
+.a1 {
+    float: left;
+    color: rgb(103, 93, 93);
+    background-color: rgba(228, 228, 228, 0.687);
+    padding: 30px 30px 30px 30px;
+    border-radius: 5%;
+
+
+}
+
+.a2 {
+    float: left;
+    margin-left: 1%;
+    color: rgb(167, 245, 140);
+    background-color: rgb(10, 141, 45);
+    border-radius: 5%;
+    border-style: solid;
+    padding: 30px 30px 30px 30px;
+
+}
+
+.a3 {
+    float: left;
+    margin-left: 1%;
+    background-color: rgba(228, 228, 228, 0.687);
+    color: rgb(103, 93, 93);
+    padding: 30px 30px 30px 30px;
+    border-radius: 5%;
+
+
+}
+
+.a4 {
+    float: left;
+    margin-left: 1%;
+    color: rgb(103, 93, 93);
+    background-color: rgba(228, 228, 228, 0.687);
+    padding: 30px 30px 30px 30px;
+    border-radius: 5%;
+
+}
+
+.a5 {
+    float: left;
+    margin-left: 1%;
+    margin-right: 10%;
+    background-color: rgba(228, 228, 228, 0.687);
+    color: rgb(103, 93, 93);
+    padding: 30px 30px 30px 30px;
+    border-radius: 5%;
+}
+
+.pa {
+
+    align-items: center;
+    text-align: center;
+    margin-top: 15%;
+    color: gray;
+    padding-bottom: 1%;
+    border-bottom: 1px solid gray;
+    margin-left: 22%;
+    margin-right: 22%;
+}
+
+.qw1 {
+    text-align: center;
+    align-items: center;
+    align-content: center;
+    margin-top: 2%;
+}
+
+.bc1 {
+    text-align: center;
+    background-color: rgb(11, 122, 37);
+    font-size: 28px;
+    padding: 10px 10px 10px 10px;
+    border-radius: 6px;
+    text-decoration: none;
+    color: white;
+    font-weight: 550;
+}
+
+.cll1 {
+    display: flex;
+    margin-top: 2%;
+    margin-left: 18%;
+    margin-right: 10%;
+}
+
+.cl1 {
+    float: left;
+    margin-left: 1%;
+    background-color: rgb(163, 181, 246);
+    color: rgb(103, 93, 93);
+    padding: 90px 90px 90px 90px;
+    border-radius: 5%;
+}
+
+.cl2 {
+    float: left;
+    margin-left: 1%;
+    background-color: rgb(186, 224, 244);
+    color: rgb(103, 93, 93);
+    padding: 90px 90px 90px 90px;
+    border-radius: 5%;
+}
+
+.cl3 {
+    float: left;
+    margin-left: 1%;
+    background-color: rgb(239, 233, 171);
+    color: rgb(103, 93, 93);
+    padding: 90px 90px 90px 90px;
+    border-radius: 5%;
+}
+
+h4 {
+    color: rgb(0, 0, 0);
+}
+
+#amiii {
+    text-align: left;
+}
+
+h4 {
+    font-size: 26px;
+}
+
+p {
+    font-size: 18px;
+    text-align: left;
+    line-break: 2%;
+    letter-spacing: 2%;
+}
+
+.ddd {
+    display: flex;
+    margin-top: 10%;
+    margin-left: 18%;
+
+}
+
+.ddd1 {
+    display: block;
+    margin-top: 0%;
+}
+
+.tt {
+    display: block;
+    margin-top: 8%;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+    padding-left: 20%;
+    max-width: 85%;
+    height: 100%;
+
+
+
+}
+
+h3 {
+    font-size: 58px;
+}
+
+.kaa {
+    color: rgb(109, 100, 100);
+    font-size: 20px;
+    font-weight: 300;
+    text-align: left;
+    padding-bottom: 5%;
+}
+
+.bonna {
+    display: flex;
+    margin-top: 10%;
+    margin-left: 18%;
+}
+
+.bonnai {
+    display: flex;
+    margin-top: 5%;
+    margin-right: 10%;
+    width: 80%;
+}
+
+img {
+    border-radius: 8px;
+}
+
+
+.tebonna {
+    float: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 1%;
+    width: 70%;
+    padding-right: 20%;
+
+}
+
+.messi {
+    color: rgb(109, 100, 100);
+    font-size: 20px;
+    font-weight: 300;
+    text-align: left;
+    padding-top: 2%;
+    padding-bottom: 5%;
+}
+
+.getup {
+    align-items: center;
+    margin-top: 8%;
+}
+
+.ronaldo {
+    color: rgb(109, 100, 100);
+    font-size: 20px;
+    font-weight: 300;
+    text-align: center;
+    padding-bottom: 5%;
+}
+
+.exp {
+    align-items: center;
+    background-color: rgb(150, 255, 239);
+    padding: 50px;
+    padding-bottom: 50px;
+    margin-left: 25%;
+    margin-right: 25%;
+    border-radius: 6px;
+    margin-bottom: 5%;
+}
+
+.box {
+    display: flex;
+    align-items: center;
+    border-radius: 5px;
+    background-color: #dfd5d5;
+
+
+
+}
+
+.form-box {
+    margin-right: 0%;
+    margin-left: 0%;
+    padding: 10px;
+    border-radius: 5px;
+    background-color: rgb(255, 255, 255);
+
+}
+
+.form-box input {
+    align-items: center;
+    font-size: 18px;
+    color: rgb(255, 255, 255);
+    padding: 10px;
+    border: none;
+    outline: none;
+    background: #fffdfd;
+
+}
+
+footer {
+    margin: 0%;
+    padding: 120px;
+    background-color: rgb(42, 43, 48);
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    color: rgb(255, 255, 255);
+}
+
+.form-box button {
+    margin-left: 60%;
+    color: #fff;
+    padding: 10px 12px;
+    font-size: 20px;
+    border: none;
+    border-radius: 5px;
+    background-color: #0f7881;
+    cursor: pointer;
+    transition: .2s;
+}
+
+.form-box button:hover {
+    background: hsl(107, 86%, 20%);
+}
+
+footer h4 {
+    margin: 0%;
+    text-align: center;
+    font-size: 70px;
+    font-family: 'Abril Fatface', 'cursive';
+    color: rgb(103, 238, 110);
+}
+
+footer p {
+    margin-top: 2%;
+    text-align: center;
+    font-size: 38px;
+    font-family: 'Abril Fatface', 'cursive';
+    color: white;
+}
+
+footer pre {
+    margin: 0%;
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    color: dimgrey;
+}
